@@ -27,7 +27,7 @@ body{
 }
 
 .lamps > img{
-  width: 250px;
+  width: 200px;
   user-select: none;
 }
 
@@ -40,4 +40,5 @@ body{
 .buttons > button{
   padding: 10px 25px;
 }
+
 
